@@ -1,0 +1,19 @@
+.thread {
+  height: 50px;
+  margin: 10px 30px;
+  padding: 10px;
+  border-radius: 30px;
+  border: 1px solid black;
+}
+
+.title {
+  float: left;
+  height: 10px;
+  margin-right: 10px;
+}
+
+.hashTag {
+  float: left;
+  height: 10px;
+  font-size: small;
+}
